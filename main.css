@@ -23,6 +23,22 @@ header {
 	text-shadow: 1px 2px 2px #000;
 	background-image: linear-gradient( 90deg , #203060, #000);
 }
+a {
+	text-decoration: none;j
+	color: green;
+}
+footer {
+	font-family: "Lucida Bright", Georgia, serif;
+	font-size: 16px;
+	line-height: 1.5;
+	padding: 10px;
+	color: #fff;
+	text-shadow: 1px 2px 2px #000;
+	background-image: linear-gradient( 90deg , #203060, #000);
+}
+footer a {
+	color: #fff;
+}
 .tagline {
 	font-family: Candara, Futura, sans-serif;
 	font-size: 24px;
@@ -76,19 +92,15 @@ header {
 	margin-bottom: 36px;
 	box-shadow: 1px 1px 2px;
 }
-a {
-	text-decoration: none;j
-	color: green;
+.skills a {
+	text-decoration: none;
+	color: #fff;
 }
-footer {
-	font-family: "Lucida Bright", Georgia, serif;
+.skills p {
+	font-family: Candara, Futura, sans-serif;
 	font-size: 16px;
+	font-weight: normal;
 	line-height: 1.5;
 	padding: 10px;
-	color: #fff;
-	text-shadow: 1px 2px 2px #000;
-	background-image: linear-gradient( 90deg , #203060, #000);
-}
-footer a {
-	color: #fff;
+	color: black;
 }
