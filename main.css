@@ -1,5 +1,5 @@
 /* main.css color palatte 
-#dfcf9f - light tan - header
+#dfcf9f - light tan - body
 #bf9f40 - 70's gold - links? 
 #ffbf00 - orange - tagline (font - #393013)
 #9fafdf - slate - footer
@@ -12,7 +12,7 @@ html, body, h1, h2, h3, h4, p, div, ul, ol, li, article, aside, footer, header, 
 	font-size: 100%;
 }
 body {
-	background-color: #9fafdf;
+	background-color: #c6cfec;
 }
 header {
 	font-family: "Lucida Bright", Georgia, serif;
@@ -31,7 +31,7 @@ header {
 	padding: 10px;
 	margin-left: 80px;
 	margin-bottom: 36px;
-	background-color: #dfcf9f;
+	background-color: #9fafdf;
 	border-radius: 0 0 0 15px;
 	box-shadow: 0 1px 2px;
 }
@@ -68,7 +68,8 @@ header {
 }
 .skills li {
 	display: inline;
-	background-color: #dfcf9f;
+	color: #fff;
+	background-color: #203060;
 	padding: 10px;
 	border-radius: 5px;
 	margin: 10px;
