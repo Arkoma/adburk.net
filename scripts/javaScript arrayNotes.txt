@@ -1,0 +1,21 @@
+var numbers = [0, 1, 2, 3, 4, 5]
+
+numbers [4] calls the value in the variable "numbers"
+
+var passengers = [andrea, aaron, esi, dylan, ozzie]
+
+to call esi you would just type "passengers [2]"
+
+If we wanted to reassign esi's spot to Allyson we would type:
+
+passengers [2] = Allyson
+
+If we type passengers.length we will get 5
+
+If we say passengers.pop(); it will take off the last value in the array and return it to us.  In this case, "ozzie"
+
+passengers.push("Jae") will add 
+
+arrays can hold strings integers and even other arrays
+
+arrays of arrays are sometimes called 2 dimensional arrays.
